@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background: #999999;
+}
+#game{
+    background:#7EC58A;
+    display: inline-block;
+}
+button{
+    margin: 10px;
+}
+td{
+    border: 1px solid #488B39;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    display: inline-block ;
+    background-color: #488B39;
+    margin: 1px;
+    cursor: default;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+#xianshiqi{
+    margin-bottom: 10px;
+}
+#tanchu_box{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.5);
+}
+#tanchu {
+    display: inline-block;
+    width: 500px;
+    margin-top: 15%;
+    background: royalblue;
+    padding: 20px;
+}
+#xianshiqi span{
+    display: inline-block;
+    width: 150px;
+}
+
+
